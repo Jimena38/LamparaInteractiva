@@ -69,7 +69,6 @@ body{
     top: 10%; 
     left: 48%;
     cursor: pointer;
-    top: 15em;
     z-index: 2;
     appearance: none;
 }
