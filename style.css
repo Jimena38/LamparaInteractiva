@@ -64,8 +64,8 @@ body{
 
 .switch{
     position: absolute;
-    width: 2rem;
-    height: 2rem;
+    width: 4rem;
+    height: 4rem;
     top: 10%; 
     left: 48%;
     cursor: pointer;
