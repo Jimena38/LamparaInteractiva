@@ -65,10 +65,12 @@ body{
 .switch{
     position: absolute;
     width: 2rem;
-    height: 4rem; 
+    height: 2rem;
+    top: 10%; 
     left: 48%;
     cursor: pointer;
-    z-index: 3;
+    top: 15em;
+    z-index: 2;
     appearance: none;
 }
 
